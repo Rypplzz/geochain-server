@@ -1,10 +1,10 @@
 # Geochain server
 
-Geochain is a secure, private payment solution for XRP.
+Geochain is a secure, private payment solution that uses XRP.
 
 ## Description
 
-Geochain is a secure, private payment solution for XRP.
+Geochain is a secure, private payment solution that uses XRP.
 
 ## Getting Started
 
