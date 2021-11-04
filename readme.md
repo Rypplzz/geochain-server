@@ -1,10 +1,10 @@
 # Geochain server
 
-Geochain is a secure, private payment solution for XRP on mobile.
+Geochain is a secure, private payment solution for XRP.
 
 ## Description
 
-Geochain is a secure, private payment solution for XRP on mobile that optionally incorporates geo-location based rules when proocessing transactions.
+Geochain is a secure, private payment solution for XRP.
 
 ## Getting Started
 
